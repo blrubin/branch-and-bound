@@ -1,0 +1,39 @@
+ Instance With 20 Items
+ Partial Solutions Created:
+    Method 1: 1147
+    Method 2: 1356
+ Chosen Objects:  7 9 12 10 1 8 11 19 13 16 2 5 4
+ Total Value: 832
+ Total Mass: 216
+
+ Instance With 21 Items
+ Partial Solutions Created:
+    Method 1: 1454
+    Method 2: 1878
+ Chosen Objects:  13 21 8 6 5 14 11 2 18 7 20 17
+ Total Value: 806
+ Total Mass: 525
+
+ Instance With 22 Items
+ Partial Solutions Created:
+    Method 1: 19591
+    Method 2: 26349
+ Chosen Objects:  15 22 5 14 12 18 10 20 17 19 6 11 2
+ Total Value: 914
+ Total Mass: 443
+
+ Instance With 23 Items
+ Partial Solutions Created:
+    Method 1: 30424
+    Method 2: 36469
+ Chosen Objects:  21 13 17 14 3 5 10 4 19 6 2 8 11 9 15
+ Total Value: 986
+ Total Mass: 441
+
+ Instance With 24 Items
+ Partial Solutions Created:
+    Method 1: 30805
+    Method 2: 32383
+ Chosen Objects:  13 18 9 8 21 15 2 14 22 12 11
+ Total Value: 803
+ Total Mass: 416
