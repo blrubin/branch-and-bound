@@ -1,4 +1,4 @@
-This is an implementation of the branch and bound algorithm to solve the a variation of the 0-1 Knapsack problem. It was an assignment for the Algorithms course at Queen's University. These were the instructions:
+This is an implementation of the branch and bound algorithm to solve a variation of the 0-1 Knapsack problem. It was an assignment for the Algorithms course at Queen's University. These are the assignment instructions:
 
 Earth has been invaded and you alone are forced to relocate to another planet. You can take whatever you like, so long as the total mass of your choices does not exceed K kilograms. You have put together quite a long list of things that you would like to take ... too many items to take them all. You've been able to assign a “desirability value” to each object. You need to choose a set of objects that maximizes the total value without exceeding the limit of K kilograms.
 
