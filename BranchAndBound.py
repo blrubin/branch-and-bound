@@ -18,6 +18,9 @@ it to the cost so far
 
 Lower Bound Implementation 2:
 finds the cost so far as described above
+
+TO DO: implement my own min-heap, instead of importing the heapq package 
+
 '''
 
 import heapq
